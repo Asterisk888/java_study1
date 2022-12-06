@@ -21,6 +21,5 @@ public class go_to_school {
 			System.out.println("성인입니다.");		
 			System.out.println("입장료는 "+fee+"입니다.");			
 		}
-		input.close();
 	}
 }
