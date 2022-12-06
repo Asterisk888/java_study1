@@ -24,7 +24,6 @@ public class room_number {
 			}
 		}
 			System.out.println("당신의 방 번호는 "+room_num+"입니다.");
-			num.close();
 		}
 	}
 
